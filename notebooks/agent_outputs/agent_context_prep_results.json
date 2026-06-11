@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Does this contract contain risky termination clauses?",
+    "status": "ready_for_llm",
+    "risk_level": "Medium",
+    "latency_seconds": 0.197,
+    "top_retrieved_clause": "32.4. the following Clauses shall survive termination for whatever cause of this Agreement: Clauses 4.2, 5, 10.2, 20.4, 23.2, 25-28, 30-34 inclusive."
+  },
+  {
+    "question": "What indemnification obligations are present?",
+    "status": "ready_for_llm",
+    "risk_level": "High",
+    "latency_seconds": 0.037,
+    "top_retrieved_clause": "The foregoing indemnification obligations are conditioned upon the indemnified party promptly notifying the indemnifying party in writing of the claim, suit or proceeding for which the indemnifying party is obligated under this Section 24, cooperating with, assisting and providing information to, the indemnifying party as reasonably required, and granting the indemnifying party the exclusive right to defend or settle such claim, suit or proceeding."
+  },
+  {
+    "question": "Summarize the key risks in this agreement.",
+    "status": "ready_for_llm",
+    "risk_level": "High",
+    "latency_seconds": 0.117,
+    "top_retrieved_clause": "BEEN ADVISED OF THE POSSIBILITY OR PROBABILITY OF SUCH DAMAGES AND EVEN IF THE REMEDIES OTHERWISE PROVIDED BY THIS AGREEMENT FAIL OF THEIR ESSENTIAL PURPOSE. THE REMEDIES PROVIDED BY THIS AGREEMENT AND THE PROVISIONS OF THIS AGREEMENT ALLOCATE THE RISKS OF THIS AGREEMENT BETWEEN THE PARTIES, SOME OF WHICH MAY BE UNKNOWN OR UNDERMINABLE. THESE LIMITATIONS ARE A MATERIAL INDUCEMENT FOR THE PARTIES TO THIS AGREEMENT TO ENTER INTO THIS AGREEMENT, AND THE PARTIES TO THIS AGREEMENT HAVE RELIED UPON THESE PROVISIONS IN DETERMINING WHETHER OR NOT TO ENTER INTO THIS AGREEMENT."
+  }
+]

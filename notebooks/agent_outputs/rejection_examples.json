@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Can you help me plan a trip to Italy?",
+    "status": "rejected",
+    "answer": "I can only help with contract analysis questions. Please ask about contract clauses, obligations, risks, or agreement terms.",
+    "latency_seconds": 0.0
+  },
+  {
+    "question": "Can you diagnose my chest pain?",
+    "status": "rejected",
+    "answer": "I can only help with contract analysis questions. Please ask about contract clauses, obligations, risks, or agreement terms.",
+    "latency_seconds": 0.0
+  }
+]
