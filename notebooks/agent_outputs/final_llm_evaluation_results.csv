@@ -1,0 +1,59 @@
+question,model,risk_level,latency_seconds,answer,relevance_score,grounding_score,risk_score,clarity_score,human_review_score,average_score
+Does this contract contain risky termination clauses?,gpt-4o,Medium,4.958,"The termination clause in the contract specifies that certain clauses will survive termination, including Clauses 4.2, 5, 10.2, 20.4, 23.2, 25-28, and 30-34. This means that the obligations or rights outlined in these clauses will continue to be in effect even after the contract is terminated.
+
+**Potential Risks:**
+1. **Ongoing Obligations:** The survival of these clauses could impose ongoing obligations or liabilities on one or both parties, which might not be immediately apparent without reviewing the specific content of each referenced clause.
+2. **Ambiguity in Scope:** If the surviving clauses are not clearly defined or if their implications are broad, this could lead to disputes over their interpretation and enforcement post-termination.
+3. **Compliance and Liability:** There may be compliance or liability issues if the surviving clauses involve regulatory requirements or indemnification obligations.
+
+**Recommendation:**
+A detailed review of the specific clauses mentioned as surviving termination is necessary to fully understand their implications and assess any associated risks. It is advisable to have a legal or compliance professional examine these clauses to ensure that the risks are managed appropriately and that the contract aligns with the parties' intentions and risk tolerance.",5,5,5,4,5,4.8
+Does this contract contain risky termination clauses?,gpt-4o-mini,Medium,4.389,"The retrieved contract clause indicates that several specific clauses will survive termination of the agreement, regardless of the cause. This can pose potential risks, particularly if the surviving clauses impose ongoing obligations or liabilities on the parties after termination. 
+
+The medium risk level suggests that while there are concerns, they may not be immediately severe. However, it is essential to review the specific clauses listed (4.2, 5, 10.2, 20.4, 23.2, 25-28, 30-34) to understand the nature of the obligations that will continue post-termination.
+
+I recommend a thorough review by a legal or compliance professional to assess the implications of these surviving clauses and to ensure that they align with your organization's risk tolerance and operational needs.",5,5,5,5,5,5.0
+What indemnification obligations are present?,gpt-4o,High,3.39,"The indemnification obligations in this contract require the indemnified party to promptly notify the indemnifying party in writing of any claim, suit, or proceeding. Additionally, the indemnified party must cooperate with, assist, and provide necessary information to the indemnifying party. The indemnifying party is granted the exclusive right to defend or settle the claim.
+
+The risks associated with these obligations include:
+1. **Notification Requirement**: Failure to promptly notify the indemnifying party could potentially void the indemnification obligation.
+2. **Cooperation and Assistance**: The indemnified party must ensure they provide reasonable cooperation and information, which could be burdensome and may require significant resources.
+3. **Exclusive Defense Rights**: Granting exclusive rights to the indemnifying party to defend or settle claims may limit the indemnified party's control over the resolution of the claim.
+
+Given the high initial risk level, it is recommended that a human legal or compliance professional review these obligations to ensure they align with the indemnified party's risk management strategy and operational capabilities.",5,5,5,5,5,5.0
+What indemnification obligations are present?,gpt-4o-mini,High,4.868,"The indemnification obligations outlined in the retrieved clause include several key conditions that the indemnified party must fulfill:
+
+1. **Prompt Notification**: The indemnified party is required to notify the indemnifying party in writing about any claim, suit, or proceeding in a timely manner.
+
+2. **Cooperation**: The indemnified party must cooperate with the indemnifying party, assist in the defense, and provide necessary information as reasonably required.
+
+3. **Exclusive Right to Defend**: The indemnifying party is granted the exclusive right to defend or settle the claim, suit, or proceeding.
+
+**Possible Risks**:
+- **Delay in Notification**: Failure to promptly notify the indemnifying party could jeopardize the indemnification rights.
+- **Cooperation Requirements**: The obligation to cooperate may impose additional burdens on the indemnified party, potentially affecting their operations.
+- **Loss of Control**: Granting the indemnifying party exclusive rights to defend or settle may limit the indemnified party's ability to influence the outcome of the claim.
+
+Given these conditions and risks, it is advisable to have a human legal or compliance review to ensure that the indemnification obligations align with your organization's risk management strategy and to clarify any ambiguities in the clause.",5,5,5,4,5,4.8
+Summarize the key risks in this agreement.,gpt-4o,High,3.823,"The retrieved contract clause highlights several key risks associated with the agreement:
+
+1. **Limitation of Liability**: The clause indicates that the parties have agreed to limit liability for certain types of damages, even if they were advised of the possibility of such damages occurring. This could potentially expose parties to unforeseen losses without recourse.
+
+2. **Failure of Essential Purpose**: The clause acknowledges that the remedies provided might fail to achieve their essential purpose, which could leave parties without adequate compensation or resolution in the event of a breach or issue.
+
+3. **Risk Allocation**: The agreement explicitly states that it allocates risks between the parties, including some risks that may be unknown or indeterminable at the time of signing. This could lead to unexpected liabilities or obligations.
+
+4. **Material Inducement**: The limitations and risk allocations are described as a material inducement for entering into the agreement, suggesting that these terms were crucial in the decision-making process. This could impact the enforceability of the agreement if challenged.
+
+Given the high initial risk level and the potential for significant legal and financial implications, it is recommended that a human legal or compliance professional review the agreement to assess these risks thoroughly and provide tailored advice.",5,5,5,4,5,4.8
+Summarize the key risks in this agreement.,gpt-4o-mini,High,2.876,"The key risks identified in this agreement include:
+
+1. **Limitation of Remedies**: The clause indicates that the remedies provided may fail to meet their essential purpose, which could leave parties without adequate recourse in the event of a breach or damage.
+
+2. **Allocation of Risks**: The agreement explicitly states that risks are allocated between the parties, some of which may be unknown or unmanageable. This could lead to unforeseen liabilities or losses.
+
+3. **Material Inducement**: The limitations on liability and remedies are described as a significant factor in the parties' decision to enter into the agreement. This could imply that one party may be at a disadvantage if the limitations do not adequately cover potential damages.
+
+Given these points, there is a high risk associated with the limitations on liability and the allocation of risks. It is advisable to have a human legal or compliance review to assess the implications of these clauses further.",5,5,5,5,5,5.0
+Can you help me plan a trip to Italy?,scope_rejection_tool,Not applicable,0.0,"I can only help with contract analysis questions. Please ask about contract clauses, obligations, risks, or agreement terms.",5,5,5,5,5,5.0
+Can you diagnose my chest pain?,scope_rejection_tool,Not applicable,0.0,"I can only help with contract analysis questions. Please ask about contract clauses, obligations, risks, or agreement terms.",5,5,5,5,5,5.0
